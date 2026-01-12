@@ -16,3 +16,11 @@ Data Source: Kaggle
 What I Did: Worked with a large raw dataset, cleaned and sorted it in Power BI, corrected inconsistencies, and created calculated fields for analysis and visualization.
 
 Outcome: Developed a visually engaging dashboard to explore Netflix content distribution, genres, and trends, gaining hands-on experience in data preparation and dashboard design.
+
+## **Project 3: Ferns N Petals Sales Analysis**
+
+Data Source: GitHub
+
+What I Did: Cleaned and prepared the dataset using Excel by handling missing values, removing duplicates, standardizing categories, and organizing data for analysis. Used formulas and Pivot Tables to summarize sales by occasion, product category, region, and time.
+
+Outcome: Created a clear analytical view of sales performance and trends, making it easier to compare categories, identify patterns, and understand overall business performance using Excel-based analysis.
